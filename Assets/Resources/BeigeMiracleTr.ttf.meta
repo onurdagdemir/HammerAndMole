@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: b3a451dcc97d3443ebafc9206fa87f56
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 8
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Beige Miracle
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 8064b6502a024400693140c0a0ed4bfd, type: 3}
+  - {fileID: 12800000, guid: 9c041ebba7dd14f1b83fd2fa2915ab85, type: 3}
+  customCharacters: 
+  fontRenderingMode: 1
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
